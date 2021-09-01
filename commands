@@ -1,0 +1,10 @@
+pwd
+ls
+ls -a
+ls -l
+ls -t
+ls -al
+rm
+cp
+mv
+rm -r
